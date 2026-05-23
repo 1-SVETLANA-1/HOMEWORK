@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    
+}
+.form {
+    border: 1px solid #000;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    width: 300px;
+    height: 400px;
+    
+}
+.form-group {
+font-weight: 700;
+border: #fff;
+
+
+}
+
+.form-group-title {
+
+}
+.label {
+    display: block;
+resize: vertical;
+margin: 5px;
+border-radius: 5px;
+border-width: 1px;
+}
+.textarea {
+    margin: 10px;
+   resize: vertical; 
+   max-height: 200px;
+   border-radius: 5px;
+}
+.input, 
+.textarea {
+}
+.checkbox { 
+
+}
+.checkbox-text {
+
+}
+.button {
+cursor: pointer;
+margin: 5px;
+}
